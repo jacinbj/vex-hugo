@@ -13,8 +13,8 @@ banner:
     link: Services
 features:
   enable: true
-  title: Our Core Features
-  image: images/watch-2.png
+  title: Our Core Services
+  image: "/images/untitled-design-10.png"
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
