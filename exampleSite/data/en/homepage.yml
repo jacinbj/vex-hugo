@@ -21,8 +21,7 @@ features:
     content: Restaurants, E-commerce, Coffee Shops, etc...
   - title: Elegant Web Design
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Modern decent looking websites with many options and features
   right_side:
   - title: Best Prices
     icon: tf-ion-ios-alarm-outline
