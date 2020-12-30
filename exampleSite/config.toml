@@ -58,7 +58,7 @@ weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "$"
+currency = "MAD"
 description = "This is meta description"
 logo = "/images/business-booter-2.png"
 logo_width = "200px"
