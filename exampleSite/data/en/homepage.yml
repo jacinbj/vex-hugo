@@ -2,10 +2,8 @@
 banner:
   enable: true
   title: Business Booster
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  content: Our Goal is to help you Digitalize your Business through Social Media and
+    Boost your Sales with our Great Team of Professionals
   image: "/images/untitled-design-21.png"
   button:
     enable: true
