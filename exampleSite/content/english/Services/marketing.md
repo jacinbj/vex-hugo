@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "meta description"
-draft = true
 image = "/images/untitled-design-17.png"
 title = "Marketing"
 
