@@ -64,6 +64,8 @@ logo = "/images/untitled-design-28.png"
 logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
+[[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
