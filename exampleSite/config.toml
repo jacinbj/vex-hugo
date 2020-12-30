@@ -19,33 +19,33 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Services"
-url = "Services"
-weight = 1
-[[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 4
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions"
 weight = 3
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 4
+name = "Contact"
+url = "contact"
+weight = 2
+[[menu.footer]]
+name = "Services"
+url = "services"
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
+[[menu.main]]
+name = "Services"
+url = "services"
+weight = 2
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "Services"
-url = "Services"
-weight = 3
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
