@@ -19,33 +19,33 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 4
+name = "Services"
+url = "Services"
+weight = 1
+[[menu.footer]]
+name = "Contact"
+url = "contact"
+weight = 2
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions"
 weight = 3
 [[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
-[[menu.footer]]
-name = "Services"
-url = "Services"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
-[[menu.main]]
-name = "Services"
-url = "Services"
-weight = 2
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 4
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "Services"
+url = "Services"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
@@ -55,8 +55,6 @@ logo = "/images/business-booter-3.png"
 logo_width = "200px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
-[[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -64,18 +62,12 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
-[[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [params.preloader]
 enable = true
 preloader = ""
