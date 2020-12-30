@@ -29,8 +29,7 @@ features:
     content: We provide Best Services with Best Prices
   - title: Professional Photographer
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: "+ 5 years experience"
 promo:
   enable: true
   image: "/images/untitled-design-11.png"
