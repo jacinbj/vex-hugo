@@ -19,33 +19,33 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 4
+name = "Services"
+url = "Services"
+weight = 1
+[[menu.footer]]
+name = "Contact"
+url = "contact"
+weight = 2
 [[menu.footer]]
 name = "Terms & Conditions"
 url = "terms-conditions"
 weight = 3
 [[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
-[[menu.footer]]
-name = "Services"
-url = "services"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
-[[menu.main]]
-name = "Services"
-url = "services"
-weight = 2
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 4
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "Services"
+url = "Services"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
 [params]
 author = "Themefisher"
 contact_form_action = "#"
@@ -60,14 +60,10 @@ link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themefisher-font/themefisher-font.min.css"
-[[params.plugins.css]]
-link = "plugins/slick/slick.min.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = true
 preloader = ""
