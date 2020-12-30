@@ -40,7 +40,7 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Services"
-url = "Services"
+url = "services"
 weight = 3
 [[menu.main]]
 name = "Contact"
