@@ -20,7 +20,7 @@ weight = 2
 unsafe = true
 [[menu.footer]]
 name = "Services"
-url = "Services"
+url = "services"
 weight = 1
 [[menu.footer]]
 name = "Contact"
