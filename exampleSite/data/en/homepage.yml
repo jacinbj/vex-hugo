@@ -38,7 +38,7 @@ promo:
     with an <b>Unbeatable Price</b> (Photoshoot Session + Website + Marketing)<br><br>Check
     our Services to <b>Sign Up</b>
 about_product:
-  enable: false
+  enable: true
   title: Our Works
   items:
   - image: "/images/file-5184x3456_000009.jpg"
