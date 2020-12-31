@@ -42,10 +42,6 @@ about_product:
   title: Our Works
   items:
   - image: "/images/file-5184x3456_000009.jpg"
-    title: oi
-    content: oi
-    button: ''
-  - image: "/images/file-5184x3456_000009.jpg"
     title: Sushi Box
     content: ''
     button:
