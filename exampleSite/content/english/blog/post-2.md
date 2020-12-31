@@ -1,13 +1,12 @@
 ---
-title: "Why You Should Buy a Smart Watch."
-date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-2.png"
-description : "this is a meta description"
-draft: false
+title: 2021 Promo
+date: 2019-10-17T11:22:16.000+06:00
+image: "/images/untitled-design-11.png"
+description: this is a meta description
+
 ---
+Fresh Year Fresh Start, with the **Covid-19** pandemic going on **Thousands** of Businesses were forced to **Shut Down** and go out of Business, in the other hand **Digital Businesses** saw a Massive **Growth**.  
+  
+We are running a **Limited Promotion** for the new year to help you Digitalize your Business with an **Unbeatable Price** (Photoshoot Session + Website + Marketing)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Contact Us now.
