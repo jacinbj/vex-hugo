@@ -1,6 +1,6 @@
 ---
 title: 2021 Promo
-date: 
+date: 2020-12-30T23:00:00+00:00
 image: "/images/untitled-design-11.png"
 description: ''
 
