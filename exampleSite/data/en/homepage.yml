@@ -41,10 +41,6 @@ about_product:
   enable: true
   title: Our Works
   items:
-  - image: "/images/file-5184x3456_000009.jpg"
-    title: Sushi Box
-    content: hkjh
-    button: ''
   - image: images/showcase/showcase-4.png
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
