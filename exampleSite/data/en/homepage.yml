@@ -49,7 +49,7 @@ about_product:
     title: Sushi Box
     content: ''
     button:
-      enable: false
+      enable: true
       label: Check Features
       link: "#"
 products:
