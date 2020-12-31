@@ -46,7 +46,7 @@ about_product:
     content: ''
     button:
       enable: true
-      label: Check Features
+      label: Read More
       link: "#"
 products:
   enable: false
