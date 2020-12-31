@@ -49,7 +49,7 @@ about_product:
       label: Read More
       link: "#"
 products:
-  enable: false
+  enable: true
   title: Checkout Our All Products
 subscription:
   enable: false
