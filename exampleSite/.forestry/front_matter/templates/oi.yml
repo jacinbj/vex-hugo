@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: description
-  label: description
 - type: field_group
   name: office
   label: office
@@ -33,21 +30,10 @@ fields:
   - type: text
     name: content
     label: content
-- type: field_group
-  name: opennig_hour
-  label: opennig_hour
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: list
-    name: day_time
-    label: day_time
-  - type: text
-    name: Service
-    label: Service
-  - type: text
-    name: Number
-    label: Number
+- name: mobile_2
+  type: text
+  config:
+    required: false
+  label: mobile 2
 pages:
 - exampleSite/content/english/contact/_index.md
