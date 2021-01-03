@@ -54,3 +54,5 @@ fields:
     label: Service
     showOnly:
       field: Service
+pages:
+- exampleSite/content/english/contact/_index.md
