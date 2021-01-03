@@ -16,4 +16,5 @@ fields:
   label: description
 pages:
 - exampleSite/content/english/Services/marketing.md
+- exampleSite/content/english/blog/sushi-box.md
 - exampleSite/content/english/sushi-box.md
