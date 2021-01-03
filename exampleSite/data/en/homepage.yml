@@ -41,7 +41,7 @@ about_product:
   enable: true
   title: Our Works
   items:
-  - image: ''
+  - image: "/images/img_4656.JPG"
     title: Dh Palace
     content: ''
     button:
