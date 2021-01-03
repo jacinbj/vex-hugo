@@ -41,6 +41,12 @@ about_product:
   enable: true
   title: Our Works
   items:
+  - image: "/images/img_4696.JPG"
+    title: Castle Fish
+    content: ''
+    button:
+      enable: true
+      label: read_more
   - image: "/images/img_4656.JPG"
     title: Dh Palace
     content: ''
