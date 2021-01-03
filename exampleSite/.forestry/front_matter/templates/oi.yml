@@ -16,15 +16,14 @@ fields:
     name: title
     label: title
   - type: text
-    name: mobile_1
-    label: mobile_1
-  - type: text
-    name: mobile_2
-    label: mobile_2
-  - type: text
     name: mobile
     label: mobile
-    hidden: true
+    hidden: false
+  - name: fax
+    type: text
+    config:
+      required: false
+    label: fax
   - type: text
     name: email
     label: email
