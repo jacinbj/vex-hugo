@@ -11,14 +11,14 @@ fields:
     label: title
   - type: text
     name: mobile
-    label: mobile
+    label: mobile 1
     config:
       required: true
   - name: mobile_2
     type: text
     config:
       required: false
-    label: mobile
+    label: mobile 2
   - type: text
     name: email
     label: email
