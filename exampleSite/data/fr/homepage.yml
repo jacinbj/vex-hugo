@@ -64,16 +64,16 @@ about_product:
       link: https://business-booster.netlify.app/blog/castle-fish/
       enable: true
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
