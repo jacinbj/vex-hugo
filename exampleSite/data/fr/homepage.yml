@@ -42,6 +42,13 @@ about_product:
   enable: true
   title: Nos Oeuvres
   items:
+  - image: " /images/file-5184x3456_000009.jpg"
+    title: Sushi Box
+    content: ''
+    button:
+      link: https://business-booster.netlify.app/blog/sushi-box/
+      label: Read More
+      enable: true
   - image: "/images/img_4696.JPG"
     title: Castle Fish
     content: ''
