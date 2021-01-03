@@ -47,7 +47,7 @@ about_product:
     button:
       enable: true
       label: Read More
-      link: "#"
+      link: https://business-booster.netlify.app/blog/sushi-box/
 products:
   enable: false
   title: Checkout Our All Products
