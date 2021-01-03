@@ -5,11 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: mobile_2
-  type: text
-  config:
-    required: false
-  label: mobile 2
 - type: field_group
   name: office
   label: office
@@ -18,22 +13,17 @@ fields:
     name: title
     label: title
   - type: text
+    name: content
+    label: content
+  - type: text
     name: mobile
     label: mobile
     hidden: false
-  - name: fax
-    type: text
-    config:
-      required: false
-    label: fax
   - type: text
     name: email
     label: email
   - type: text
     name: location
     label: location
-  - type: text
-    name: content
-    label: content
 pages:
 - exampleSite/content/english/contact/_index.md
