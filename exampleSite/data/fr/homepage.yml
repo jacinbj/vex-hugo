@@ -11,34 +11,22 @@ banner:
     link: https://business-booster.netlify.app/services/
 features:
   enable: true
-  title: Our Core Features
-  image: images/watch-2.png
+  title: 'Nos Qualités Principales '
+  image: "/images/untitled-design-10.png"
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
+  - title: Élégant Web Design
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Sites Web modernes et attrayants avec de nombreuses options et fonctionnalités
+  - title: Convient à touts Entreprises
+    icon: tf-ion-ios-alarm-outline
+    content: " Restaurants, E-commerce, Cafés, etc..."
   right_side:
-  - title: Smooth Touch
+  - title: Meilleurs prix
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Nous fournissons Meilleurs services aux Meilleurs prix
+  - title: Photographe professionnel
+    icon: ''
+    content: "+ 5 ans d'expérience"
 promo:
   enable: true
   image: images/watch.png
