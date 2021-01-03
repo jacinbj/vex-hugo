@@ -25,10 +25,6 @@ fields:
     name: content
     label: content
   - type: text
-    name: mobile
-    label: mobile
-    hidden: false
-  - type: text
     name: email
     label: email
   - type: text
