@@ -9,11 +9,6 @@ fields:
   - type: text
     name: title
     label: title
-  - type: text
-    name: mobile
-    label: mobile 1
-    config:
-      required: true
   - name: mobile_2
     type: text
     config:
