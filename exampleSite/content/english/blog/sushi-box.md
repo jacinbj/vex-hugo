@@ -6,3 +6,4 @@ sushi_box = ["/images/imageedit_2_2079263884.jpg"]
 title = "Sushi Box"
 
 +++
+![](/images/imageedit_2_2079263884.jpg)
