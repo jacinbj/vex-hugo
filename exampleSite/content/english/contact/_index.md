@@ -8,8 +8,8 @@ office:
   location: Rabat, Morocco
   content: Please leave your phone number and desired service in the message section
     below
-  mobile_2: "+ 212 6 41 58 05 11"
-  mobile_1: "+ 212 6 41 84 40 63"
+  mobile_2: "+ 212 6 41 84 40 63"
+  mobile_1: "+ 212 6 41 58 05 11"
 opennig_hour:
   title: ''
   day_time: []
