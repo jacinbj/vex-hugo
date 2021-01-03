@@ -17,5 +17,6 @@ fields:
   label: Sushi Box
 pages:
 - exampleSite/content/english/Services/marketing.md
+- exampleSite/content/english/blog/dh-palace.md
 - exampleSite/content/english/blog/sushi-box.md
 - exampleSite/content/english/sushi-box.md
