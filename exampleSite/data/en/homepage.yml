@@ -41,20 +41,6 @@ about_product:
   enable: true
   title: Our Works
   items:
-  - image: "/images/img_4696.JPG"
-    title: Castle Fish
-    content: ''
-    button:
-      enable: true
-      label: read_more
-      link: https://business-booster.netlify.app/blog/castle-fish/
-  - image: "/images/img_4656.JPG"
-    title: Dh Palace
-    content: ''
-    button:
-      label: read_more
-      link: https://business-booster.netlify.app/blog/dh-palace/
-      enable: true
   - image: "/images/file-5184x3456_000009.jpg"
     title: Sushi Box
     content: ''
@@ -62,6 +48,20 @@ about_product:
       enable: true
       label: Read More
       link: https://business-booster.netlify.app/blog/sushi-box/
+  - image: "/images/img_4656.JPG"
+    title: Dh Palace
+    content: ''
+    button:
+      label: read_more
+      link: https://business-booster.netlify.app/blog/dh-palace/
+      enable: true
+  - image: "/images/img_4696.JPG"
+    title: Castle Fish
+    content: ''
+    button:
+      enable: true
+      label: read_more
+      link: https://business-booster.netlify.app/blog/castle-fish/
 products:
   enable: false
   title: Checkout Our All Products
