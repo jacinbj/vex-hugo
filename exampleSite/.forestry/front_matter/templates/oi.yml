@@ -5,15 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: description
 - type: field_group
   name: office
   label: office
