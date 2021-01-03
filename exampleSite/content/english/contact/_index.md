@@ -10,7 +10,7 @@ office:
     below
   mobile_2: "+ 212 6 41 84 40 63"
   mobile_1: "+ 212 6 41 58 05 11"
-  fax: 0 6 41 84 40 63
+  fax: 06 41 84 40 63
 opennig_hour:
   title: ''
   day_time: []
