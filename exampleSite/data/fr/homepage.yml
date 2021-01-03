@@ -60,7 +60,7 @@ about_product:
     title: Castle Fish
     content: ''
     button:
-      label: read_more
+      label: Lire plus
       link: https://business-booster.netlify.app/blog/castle-fish/
       enable: true
 products:
