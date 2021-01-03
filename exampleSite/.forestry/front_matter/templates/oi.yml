@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: mobile_2
+  type: text
+  config:
+    required: false
+  label: mobile 2
 - type: field_group
   name: office
   label: office
@@ -30,10 +35,5 @@ fields:
   - type: text
     name: content
     label: content
-- name: mobile_2
-  type: text
-  config:
-    required: false
-  label: mobile 2
 pages:
 - exampleSite/content/english/contact/_index.md
