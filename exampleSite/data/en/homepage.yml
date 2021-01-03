@@ -41,6 +41,13 @@ about_product:
   enable: true
   title: Our Works
   items:
+  - image: ''
+    title: Dh Palace
+    content: ''
+    button:
+      label: Read More
+      link: https://business-booster.netlify.app/blog/dh-palace/
+      enable: true
   - image: "/images/file-5184x3456_000009.jpg"
     title: Sushi Box
     content: ''
