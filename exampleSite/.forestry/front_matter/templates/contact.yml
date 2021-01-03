@@ -15,14 +15,9 @@ fields:
     config:
       required: true
   - name: mobile_2
-    type: number
-    description: ''
-    default: 0
-    required: true
+    type: text
     config:
-      min: 
-      max: 
-      step: 
+      required: false
     label: mobile
   - type: text
     name: email
