@@ -23,5 +23,10 @@ fields:
   - type: text
     name: content
     label: content
+- name: 'yes'
+  type: text
+  config:
+    required: false
+  label: 'yes'
 pages:
 - exampleSite/content/english/contact/_index.md
