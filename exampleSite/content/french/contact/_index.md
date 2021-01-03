@@ -2,7 +2,7 @@
 title: Contact
 description: this is a meta description
 office:
-  title: Info
+  title: Information
   mobile: '0124857985320'
   email: business@booster.co
   location: Rabat, Morocco
