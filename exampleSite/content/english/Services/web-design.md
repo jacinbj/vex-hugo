@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 image = "/images/untitled-design-12.png"
 sushi_box = []
 title = "Web Design"
