@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: this is a meta description
+description: ''
 office:
   title: Notice
   mobile: "+ 212 6 41 58 05 11"
