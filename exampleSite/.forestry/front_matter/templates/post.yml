@@ -11,9 +11,6 @@ fields:
 - type: file
   name: image
   label: image
-- type: text
-  name: description
-  label: description
 - name: sushi_box
   type: image_gallery
   config: {}
