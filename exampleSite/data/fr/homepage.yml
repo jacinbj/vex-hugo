@@ -47,7 +47,7 @@ about_product:
     content: ''
     button:
       link: https://business-booster.netlify.app/blog/sushi-box/
-      label: Read More
+      label: Lire plus
       enable: true
   - image: "/images/img_4656.JPG"
     title: Dh Palace
