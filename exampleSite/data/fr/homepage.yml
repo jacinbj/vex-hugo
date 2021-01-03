@@ -49,6 +49,13 @@ about_product:
       link: https://business-booster.netlify.app/blog/sushi-box/
       label: Read More
       enable: true
+  - image: "/images/img_4656.JPG"
+    title: Dh Palace
+    content: ''
+    button:
+      label: read_more
+      link: https://business-booster.netlify.app/blog/dh-palace/
+      enable: true
   - image: "/images/img_4696.JPG"
     title: Castle Fish
     content: ''
