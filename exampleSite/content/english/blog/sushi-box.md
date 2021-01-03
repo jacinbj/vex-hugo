@@ -36,23 +36,23 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="img_5terre.jpg">
-    <img src="/images/img_4696.JPG" alt="Cinque Terre" width="600" height="400">
+    <img src="/images/img_4696.JPG" alt="Cinque Terre"
   </a>
 
 <div class="gallery">
   <a target="_blank" href="img_forest.jpg">
-    <img src="/images/img_4698.JPG" alt="Forest" width="600" height="400">
+    <img src="/images/img_4698.JPG" alt="Forest"
   </a>
 
 <div class="gallery">
   <a target="_blank" href="img_lights.jpg">
-    <img src="/images/img_4656.JPG" alt="Northern Lights" width="600" height="400">
+    <img src="/images/img_4656.JPG" alt="Northern Lights"
   </a>
 
 
 <div class="gallery">
   <a target="_blank" href="img_mountains.jpg">
-    <img src="/images/img_4694.JPG" alt="Mountains" width="600" height="400">
+    <img src="/images/img_4694.JPG" alt="Mountains"
   </a>
 
 </body>
