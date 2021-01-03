@@ -18,6 +18,8 @@ fields:
   - type: text
     name: mobile
     label: mobile
+    config:
+      required: true
   - type: text
     name: email
     label: email
@@ -34,6 +36,21 @@ fields:
   - type: text
     name: title
     label: title
-  - type: list
-    name: day_time
-    label: day_time
+  - name: Service
+    type: select
+    default: ''
+    config:
+      required: true
+      options:
+      - Promo
+      - Marketing
+      - Web Design
+      - Photoshoot
+      source:
+        type: simple
+        section: homepage-en
+        file: 
+        path: 
+    label: Service
+    showOnly:
+      field: Service
