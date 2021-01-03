@@ -5,7 +5,7 @@ office:
   title: Notice
   mobile: "+ 212 6 41 58 05 11"
   email: business@booster.co
-  location: ''
+  location: Rabat, Morocco
   content: Please leave your phone number and desired service in the message section
     below
   mobile_2: "+ 212 6 41 84 40 63"
