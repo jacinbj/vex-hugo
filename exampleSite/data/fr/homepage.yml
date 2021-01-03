@@ -40,26 +40,15 @@ promo:
     Consultez nos services pour <b> vous inscrire </b>
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Nos Oeuvres
   items:
-  - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: "/images/img_4696.JPG"
+    title: Castle Fish
+    content: ''
     button:
-      enable: false
-      label: Check Features
-      link: "#"
-  - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
-    button:
-      enable: false
-      label: Check Features
-      link: "#"
+      label: read_more
+      link: https://business-booster.netlify.app/blog/castle-fish/
+      enable: true
 products:
   enable: true
   title: Checkout Our All Products
