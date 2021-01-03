@@ -5,4 +5,8 @@ sushi_box = []
 title = "2021 Promo"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laboru
+Fresh Year Fresh Start, with the **Covid-19** pandemic going on **Thousands** of Businesses were forced to **Shut Down** and go out of Business, in the other hand **Digital Businesses** saw a Massive **Growth**.  
+  
+We are running a **Limited Promotion** for the new year to help you Digitalize your Business with an **Unbeatable Price** (Photoshoot Session + Website + Marketing)  
+  
+[**Sign Up**](https://business-booster.netlify.app/contact/) **now**
