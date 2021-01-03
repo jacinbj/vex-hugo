@@ -6,9 +6,10 @@ office:
   mobile: "+212 6 41 58 05 11"
   email: business@booster.co
   location: Rabat, Morocco
-  content: Please leave your Phone Number along with your desired Service
+  content: Please leave your Phone Number along with your desired Service in the Message
+    section below
 opennig_hour:
-  title: Opening Hours
+  title: ''
   day_time:
   - 'Monday: 9:00 – 19:00'
   - 'Tuesday: 9:00 – 19:00'
