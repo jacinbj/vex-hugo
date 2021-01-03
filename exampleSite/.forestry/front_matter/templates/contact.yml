@@ -2,12 +2,6 @@
 label: Contact
 hide_body: true
 fields:
-- type: text
-  name: title
-  label: title
-- type: text
-  name: description
-  label: description
 - type: field_group
   name: office
   label: office
@@ -29,6 +23,12 @@ fields:
   - type: text
     name: content
     label: content
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
 - type: field_group
   name: opennig_hour
   label: opennig_hour
@@ -38,9 +38,9 @@ fields:
     label: title
   - name: Service
     type: select
-    default: ''
+    default: Promo
     config:
-      required: true
+      required: false
       options:
       - Promo
       - Marketing
@@ -54,5 +54,16 @@ fields:
     label: Service
     showOnly:
       field: Service
+      value: Promo
+  - name: Number
+    type: number
+    label: Number
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
 pages:
 - exampleSite/content/english/contact/_index.md
