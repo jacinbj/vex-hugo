@@ -45,7 +45,7 @@ about_product:
     title: Dh Palace
     content: ''
     button:
-      label: Read More
+      label: read_more
       link: https://business-booster.netlify.app/blog/dh-palace/
       enable: true
   - image: "/images/file-5184x3456_000009.jpg"
