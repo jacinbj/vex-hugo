@@ -46,13 +46,13 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    <img src="/images/img_4656.JPG" alt="Northern Lights" width="600" height="400">
   </a>
 
 
 <div class="gallery">
   <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    <img src="/images/img_4694.JPG" alt="Mountains" width="600" height="400">
   </a>
 
 </body>
