@@ -9,4 +9,4 @@ title = "Sushi Box"
 21 December 2020
 
   
-![](/images/imageedit_2_2079263884.jpg)
+![](/images/imageedit_3_2430981215.jpg)
