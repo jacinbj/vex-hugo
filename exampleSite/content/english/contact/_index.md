@@ -16,6 +16,6 @@ opennig_hour:
   day_time: []
   Service: ''
   Number: ''
-mobile_2: "+ 212 6 41 84 40 63"
+mobile_2: "+ 212 6 41 84 40 63 "
 
 ---
