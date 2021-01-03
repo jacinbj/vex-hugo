@@ -47,6 +47,7 @@ about_product:
     button:
       enable: true
       label: read_more
+      link: https://business-booster.netlify.app/blog/castle-fish/
   - image: "/images/img_4656.JPG"
     title: Dh Palace
     content: ''
