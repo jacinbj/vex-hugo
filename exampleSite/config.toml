@@ -35,6 +35,10 @@ name = "Services"
 url = "services"
 weight = 1
 [[menu.main]]
+name = "Our Works"
+url = "https://business-booster.netlify.app/blog/"
+weight = 4
+[[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
