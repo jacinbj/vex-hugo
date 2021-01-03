@@ -49,3 +49,5 @@ fields:
   - type: text
     name: Number
     label: Number
+pages:
+- exampleSite/content/english/contact/_index.md
