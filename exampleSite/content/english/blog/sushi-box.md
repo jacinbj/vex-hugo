@@ -41,7 +41,7 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+    <img src="/images/img_4698.JPG" alt="Forest" width="600" height="400">
   </a>
 
 <div class="gallery">
