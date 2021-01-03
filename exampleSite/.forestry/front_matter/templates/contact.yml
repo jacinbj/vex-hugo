@@ -1,4 +1,29 @@
 ---
 label: Contact
 hide_body: true
-fields: []
+fields:
+- name: tilte
+  type: text
+  config:
+    required: false
+  label: tilte
+- name: mobile_1
+  type: text
+  config:
+    required: false
+  label: mobile 1
+- name: mobile_2
+  type: text
+  config:
+    required: false
+  label: mobile 2
+- name: email
+  type: text
+  config:
+    required: false
+  label: email
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
