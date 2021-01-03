@@ -9,6 +9,12 @@ fields:
   - type: text
     name: title
     label: title
+  - name: mobile_1
+    type: text
+    config:
+      required: false
+    label: mobile 1
+    default: "+ 212 6 41 58 05 11"
   - name: mobile_2
     type: text
     config:
@@ -23,10 +29,5 @@ fields:
   - type: text
     name: content
     label: content
-- name: 'yes'
-  type: text
-  config:
-    required: false
-  label: 'yes'
 pages:
 - exampleSite/content/english/contact/_index.md
