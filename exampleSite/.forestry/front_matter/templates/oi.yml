@@ -16,8 +16,15 @@ fields:
     name: title
     label: title
   - type: text
+    name: mobile_1
+    label: mobile_1
+  - type: text
+    name: mobile_2
+    label: mobile_2
+  - type: text
     name: mobile
     label: mobile
+    hidden: true
   - type: text
     name: email
     label: email
@@ -27,12 +34,6 @@ fields:
   - type: text
     name: content
     label: content
-  - type: text
-    name: mobile_2
-    label: mobile_2
-  - type: text
-    name: mobile_1
-    label: mobile_1
 - type: field_group
   name: opennig_hour
   label: opennig_hour
