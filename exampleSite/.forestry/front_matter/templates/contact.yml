@@ -9,6 +9,9 @@ fields:
   - type: text
     name: title
     label: title
+  - type: text
+    name: content
+    label: content
   - name: mobile_1
     type: text
     config:
@@ -23,11 +26,5 @@ fields:
   - type: text
     name: email
     label: email
-  - type: text
-    name: location
-    label: location
-  - type: text
-    name: content
-    label: content
 pages:
 - exampleSite/content/english/contact/_index.md
