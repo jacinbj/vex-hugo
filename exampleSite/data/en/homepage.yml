@@ -55,13 +55,6 @@ about_product:
       label: read_more
       link: https://business-booster.netlify.app/blog/dh-palace/
       enable: true
-  - image: "/images/img_4696.JPG"
-    title: Castle Fish
-    content: ''
-    button:
-      enable: true
-      label: read_more
-      link: https://business-booster.netlify.app/blog/castle-fish/
 products:
   enable: false
   title: Checkout Our All Products
