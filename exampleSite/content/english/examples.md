@@ -1,7 +1,7 @@
 +++
 date = ""
-image = "/images/untitled-design-23.png"
-title = "Our Works"
+image = "/images/untitled-design-13.png"
+title = "Examples"
 
 +++
 Lorem Ipsum
