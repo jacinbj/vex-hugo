@@ -11,10 +11,6 @@ fields:
 - type: file
   name: image
   label: image
-- name: sushi_box
-  type: image_gallery
-  config: {}
-  label: Sushi Box
 pages:
 - exampleSite/content/english/Services/2021-promo.md
 - exampleSite/content/english/Services/marketing.md
