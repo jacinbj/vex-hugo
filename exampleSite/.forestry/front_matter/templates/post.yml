@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image
-  label: image
 pages:
 - exampleSite/content/english/Services/2021-promo.md
 - exampleSite/content/english/Services/marketing.md
