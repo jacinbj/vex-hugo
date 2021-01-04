@@ -46,7 +46,7 @@ about_product:
     title: Sushi Box
     content: ''
     button:
-      link: https://business-booster.netlify.app/blog/sushi-box/
+      link: https://business-booster.netlify.app/fr/examples/
       label: Lire plus
       enable: true
   - image: "/images/img_4656.JPG"
