@@ -35,7 +35,7 @@ name = "Services"
 url = "services"
 weight = 1
 [[menu.main]]
-name = "Our Works"
+name = "Examples"
 url = "https://business-booster.netlify.app/examples/"
 weight = 4
 [[menu.main]]
