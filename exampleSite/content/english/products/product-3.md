@@ -1,6 +1,6 @@
 ---
-title: Xiaomi Watch
-date: 2019-10-17T11:22:16.000+06:00
+title: 2021 Promo
+date: 
 images:
 - images/showcase/showcase-3.png
 - images/showcase/showcase-2.png
@@ -11,6 +11,7 @@ price: ''
 discount_price: ''
 colors: []
 sizes: []
+image: "/images/untitled-design-11.png"
 
 ---
 Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
