@@ -22,4 +22,5 @@ fields:
     name: location
     label: location
 pages:
+- exampleSite/content/english/blog/dtyfug.md
 - exampleSite/content/english/contact/_index.md
