@@ -1,6 +1,6 @@
 +++
 date = ""
-image = "/images/untitled-design-13.png"
+image = ""
 title = "Examples"
 
 +++
