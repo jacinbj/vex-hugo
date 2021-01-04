@@ -54,7 +54,7 @@ about_product:
     content: ''
     button:
       label: Lire plus
-      link: https://business-booster.netlify.app/blog/dh-palace/
+      link: https://business-booster.netlify.app/fr/examples/
       enable: true
 products:
   enable: false
