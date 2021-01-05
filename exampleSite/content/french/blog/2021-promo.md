@@ -1,7 +1,7 @@
 +++
 date = ""
 image = "/images/untitled-design-11.png"
-title = "2021 Promo"
+title = ""
 
 +++
 <h1 style="text-align:center;">2021 Promo<br><br></h1>
