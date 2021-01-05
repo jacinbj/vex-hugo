@@ -106,5 +106,3 @@ word-break: break-word !important;
     </style>
 
       </div>
-
-  
