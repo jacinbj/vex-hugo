@@ -4,8 +4,10 @@ image = "/images/untitled-design-17.png"
 title = "Marketing"
 
 +++
-Fresh Year Fresh Start, with the **Covid-19** pandemic going on **Thousands** of Businesses were forced to **Shut Down** and go out of Business, in the other hand **Digital Businesses** saw a Massive **Growth**.
+<h1 style="text-align:center;">Marketing<br><br></h1>
 
-We are running a **Limited Promotion** for the new year to help you Digitalize your Business with an **Unbeatable Price** (Photoshoot Session + Website + Marketing)
+<h5 style="text-align:center;"><b>Our Marketing / Advertising package includes:</b></h5><br><br><p style="text-align:center;">⦿ 20 social media posts (customizable)<br><br>⦿ Facebook / Instagram sponsorship for 14 Days (extendable on demand)<br><br>⦿ Create Facebook / Instagram pages for your business (if needed)<br><br>⦿ 1000 Business Card + Design<br><br></p>
 
-[**Sign Up**](https://business-booster.netlify.app/contact/) **now**
+<h1 style="text-align:center;">2999 Dh<br><br></h1>
+
+<h3 style="text-align:center;"><a href="https://business-booster.netlify.app/contact">Sign Up now</a></h3>
