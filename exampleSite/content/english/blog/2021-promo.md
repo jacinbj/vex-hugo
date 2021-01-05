@@ -9,4 +9,4 @@ title = "2021 Promo"
 
 <h1 style="text-align:center;">2999 Dh<br><br></h1>
 
-<h3><a href="[https://www.w3schools.com/](https://www.w3schools.com/ "https://www.w3schools.com/")">Sign Up now</a></h3>
+<h3>style="text-align:center;"><a href="[https://www.w3schools.com/](https://www.w3schools.com/ "https://www.w3schools.com/")">Sign Up now</a></h3>
