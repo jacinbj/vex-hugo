@@ -52,7 +52,7 @@ about_product:
     title: Dh Palace
     content: ''
     button:
-      label: read_more
+      label: read more
       link: https://business-booster.netlify.app/blog/dh-palace/
       enable: true
 products:
