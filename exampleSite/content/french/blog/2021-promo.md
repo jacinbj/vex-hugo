@@ -12,4 +12,4 @@ title = ""
 
 <h3 style="text-align:center;"> [S'inscrire maintenant](https://business-booster.netlify.app/fr/contact/ "S'inscrire maintenant") </h3>
 
-[Sinscrire](https://business-booster.netlify.app/fr/contact/) 
+<h3 style="text-align:center;">[Sinscrire](https://business-booster.netlify.app/fr/contact/) </h3>
