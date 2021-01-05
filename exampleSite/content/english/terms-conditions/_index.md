@@ -1,6 +1,7 @@
 ---
 title: Terms & Conditions
 description: ''
+draft: true
 
 ---
 <h1>Privacy Policy for business booster</h1>
