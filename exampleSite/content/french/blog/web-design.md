@@ -4,8 +4,8 @@ image = "/images/untitled-design-12.png"
 title = "Web Design"
 
 +++
-Fresh Year Fresh Start, with the **Covid-19** pandemic going on **Thousands** of Businesses were forced to **Shut Down** and go out of Business, in the other hand **Digital Businesses** saw a Massive **Growth**.
+<h5 style="text-align:center;"><b>Our Web Design package includes:</b></h5><br><br><p style="text-align:center;">⦿ Website with modern design + Logo<br><br>⦿ Companion iOS / Androis app for orders check ups (delivery)<br><br>⦿ Link with Social media accounts<br><br>⦿ International online Payment method (Extra 1000 Dh) (on demand)<br><br></p>
 
-We are running a **Limited Promotion** for the new year to help you Digitalize your Business with an **Unbeatable Price** (Photoshoot Session + Website + Marketing)
+<h1 style="text-align:center;">1999 Dh<br><br></h1>
 
-[**Sign Up**](https://business-booster.netlify.app/contact/) **now**
+<h3 style="text-align:center;"><a href="https://business-booster.netlify.app/fr/contact">Sign Up now</a></h3>
