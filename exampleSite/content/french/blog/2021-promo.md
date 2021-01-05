@@ -10,4 +10,4 @@ title = ""
 
 <h1 style="text-align:center;">2999 Dh<br><br></h1>
 
-<h3 style="text-align:center;"><a href="https://business-booster.netlify.app/fr/contact">Sinscrire now</a></h3>
+<h3 style="text-align:center;"><a href="https://business-booster.netlify.app/fr/contact">S'inscrire maintenent</a></h3>
