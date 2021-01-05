@@ -2,7 +2,7 @@
 date = ""
 image = "/images/untitled-design-17.png"
 sushi_box = []
-title = "Marketing"
+title = ""
 
 +++
 <h1 style="text-align:center;">Marketing<br><br></h1>
