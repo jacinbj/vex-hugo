@@ -4,8 +4,10 @@ image = "/images/untitled-design-14.png"
 title = "Photoshoot Session"
 
 +++
-Fresh Year Fresh Start, with the **Covid-19** pandemic going on **Thousands** of Businesses were forced to **Shut Down** and go out of Business, in the other hand **Digital Businesses** saw a Massive **Growth**.
+<h1 style="text-align:center;">2021 Promo<br><br></h1>
 
-We are running a **Limited Promotion** for the new year to help you Digitalize your Business with an **Unbeatable Price** (Photoshoot Session + Website + Marketing)
+<p style="text-align:center;">Nouvelle année, nouveau départ, avec la pandémie de<b> Covid-19</b> en cours des <b>Milliers</b> d'Entreprises ont été contraintes de <b>Fermer </b> , tandis que les <b>Entreprises Numériques</b> ont connu une <b>Croissance </b>massive.<br><br>Nous organisons une promotion <b>Limitée </b>pour la nouvelle année pour vous aider à <b>Numériser votre entreprise </b>avec un <b>prix imbattable </b>(séance photo + site Web + marketing)<br><br></p>
 
-[**Sign Up**](https://business-booster.netlify.app/contact/) **now**
+<h1 style="text-align:center;">2999 Dh<br><br></h1>
+
+<h3 style="text-align:center;"><a href="[https://business-booster.netlify.app/contact](https://business-booster.netlify.app/fr/contact "https://business-booster.netlify.app/contact")">S'inscrire maintenant</a></h3>
