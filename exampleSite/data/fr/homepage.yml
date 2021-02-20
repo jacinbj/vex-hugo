@@ -40,7 +40,7 @@ promo:
     Consultez nos services pour <b> vous inscrire </b>
 about_product:
   enable: true
-  title: Nos Oeuvres
+  title: Nos Clients
   items:
   - image: "/images/imageedit_15_2976605618.jpg"
     title: Sushi Box
