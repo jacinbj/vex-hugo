@@ -42,6 +42,13 @@ about_product:
   enable: true
   title: Nos Clients
   items:
+  - image: "/images/imageedit_30_9820435759.jpg"
+    title: Real Estate
+    content: ''
+    button:
+      link: https://business-booster.netlify.app/fr/examples/
+      label: Lire plus
+      enable: true
   - image: "/images/imageedit_15_2976605618.jpg"
     title: Sushi Box
     content: ''
