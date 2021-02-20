@@ -41,6 +41,13 @@ about_product:
   enable: true
   title: Our Clients
   items:
+  - image: "/images/imageedit_30_9820435759.jpg"
+    title: Real Estate
+    content: ''
+    button:
+      link: ''
+      enable: true
+      label: Read More
   - image: "/images/imageedit_15_2976605618.jpg"
     title: Sushi Box
     content: ''
