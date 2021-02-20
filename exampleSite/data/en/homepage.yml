@@ -39,7 +39,7 @@ promo:
     our Services to <b>Sign Up</b>
 about_product:
   enable: true
-  title: Our Works
+  title: Our Clients
   items:
   - image: "/images/imageedit_15_2976605618.jpg"
     title: Sushi Box
