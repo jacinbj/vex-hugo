@@ -20,4 +20,4 @@ title = "Examples"
 >
 > ###### 25 Janvier 2021
 >
-> ![](/images/img_1733.JPG)
+> ![](/images/imageedit_3_6941032957.jpg)
