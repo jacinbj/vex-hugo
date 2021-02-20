@@ -45,7 +45,7 @@ about_product:
     title: Real Estate
     content: ''
     button:
-      link: ''
+      link: https://business-booster.ga/examples
       enable: true
       label: Read More
   - image: "/images/imageedit_15_2976605618.jpg"
