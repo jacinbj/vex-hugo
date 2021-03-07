@@ -7,6 +7,4 @@ title = "Web Design"
 +++
 <h5 style="text-align:center;"><b>Our Web Design package includes:</b></h5><br><br><p style="text-align:center;">⦿ Website with modern design + Logo<br><br>⦿ Companion iOS / Androis app for order check ups (delivery app)<br><br>⦿ Link with Social media accounts<br><br>⦿ International online Payment method (Extra 1000 Dh) (on demand)<br><br><i>Contact us for more information</i></p>
 
-<h1 style="text-align:center;">1999 Dh<br><br></h1>
-
 <h3 style="text-align:center;"><a href="https://business-booster.netlify.app/contact">Sign Up now</a></h3>
