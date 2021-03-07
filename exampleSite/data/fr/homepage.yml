@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Parcourir nos Services
-    link: https://business-booster.netlify.app/services/
+    link: https://business-booster.ga/fr/services/
 features:
   enable: true
   title: 'Nos Qualités Principales '
