@@ -41,20 +41,6 @@ about_product:
   enable: true
   title: Our Clients
   items:
-  - image: "/images/imageedit_66_2150678645.jpg"
-    title: La Pizz
-    content: ''
-    button:
-      link: https://business-booster.ga/examples
-      label: Read more
-      enable: true
-  - image: "/images/imageedit_30_9820435759.jpg"
-    title: Real Estate
-    content: ''
-    button:
-      link: https://business-booster.ga/examples
-      enable: true
-      label: Read More
   - image: "/images/imageedit_15_2976605618.jpg"
     title: Sushi Box
     content: ''
@@ -69,6 +55,20 @@ about_product:
       label: read more
       link: https://business-booster.netlify.app/examples
       enable: true
+  - image: "/images/imageedit_66_2150678645.jpg"
+    title: La Pizz
+    content: ''
+    button:
+      link: https://business-booster.ga/examples
+      label: Read more
+      enable: true
+  - image: "/images/imageedit_30_9820435759.jpg"
+    title: Real Estate
+    content: ''
+    button:
+      link: https://business-booster.ga/examples
+      enable: true
+      label: Read More
 products:
   enable: false
   title: Checkout Our All Products
