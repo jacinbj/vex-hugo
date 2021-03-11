@@ -46,8 +46,8 @@ about_product:
     title: La Pizz
     content: ''
     button:
-      link: https://business-booster.ga/examples
-      label: Liser Plus
+      link: https://business-booster.ga/fr/examples/
+      label: Lire plus
       enable: true
   - image: "/images/imageedit_30_9820435759.jpg"
     title: Real Estate
@@ -60,7 +60,7 @@ about_product:
     title: Sushi Box
     content: ''
     button:
-      link: https://business-booster.ga/fr/examples/
+      link: https://business-booster.netlify.app/fr/examples/
       label: Lire plus
       enable: true
   - image: "/images/imageedit_35_4347121531.jpg"
