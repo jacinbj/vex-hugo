@@ -47,7 +47,7 @@ about_product:
     content: ''
     button:
       link: https://business-booster.ga/examples
-      label: Liser Plus
+      label: Lire plus
       enable: true
   - image: "/images/imageedit_30_9820435759.jpg"
     title: Real Estate
