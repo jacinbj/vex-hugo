@@ -41,7 +41,7 @@ about_product:
   enable: true
   title: Our Clients
   items:
-  - image: ''
+  - image: "/images/imageedit_66_2150678645.jpg"
     title: La Pizz
     content: ''
     button:
