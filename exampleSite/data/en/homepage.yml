@@ -41,6 +41,13 @@ about_product:
   enable: true
   title: Our Clients
   items:
+  - image: ''
+    title: La Pizz
+    content: ''
+    button:
+      link: https://business-booster.ga/examples
+      label: Read more
+      enable: true
   - image: "/images/imageedit_30_9820435759.jpg"
     title: Real Estate
     content: ''
