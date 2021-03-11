@@ -12,7 +12,7 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "2021 © Business Booster"
+copyright = "Designed By Yassin Bj 2021 © Business Booster"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
