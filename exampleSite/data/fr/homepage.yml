@@ -61,7 +61,7 @@ about_product:
     content: ''
     button:
       label: Lire plus
-      link: https://business-booster.netlify.app/fr/examples/
+      link: https://business-booster.ga/fr/examples/
       enable: true
   - image: "/images/imageedit_30_9820435759.jpg"
     title: Real Estate
