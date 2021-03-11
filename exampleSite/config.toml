@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "Business Booster"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By Jasen Bj 2021 © Business Booster"
+copyright = "Designed By Yassin Bj 2021 © Business Booster"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
