@@ -1,4 +1,4 @@
-baseurl = "http://business-booster.netlify.app/"
+baseurl = "http://business-booster.ga/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
@@ -21,6 +21,10 @@ unsafe = true
 [[menu.footer]]
 name = "Privacy Policy"
 url = "privacy-policy"
+weight = 4
+[[menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions"
 weight = 3
 [[menu.footer]]
 name = "Contact"
@@ -32,12 +36,12 @@ url = "services"
 weight = 1
 [[menu.main]]
 name = "Examples"
-url = "https://business-booster.netlify.app/examples/"
-weight = 3
+url = "https://business-booster.ga/fr/examples/"
+weight = 4
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Services"
 url = "services"
