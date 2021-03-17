@@ -30,7 +30,7 @@ features:
 promo:
   enable: true
   image: "/images/untitled-design-11.png"
-  title: <h2 style="color:red;">70 % OFF </h2>
+  title: <h2 style="color:red;"><b>70 % OFF </b></h2>
   content: <h4 style="color:white;">Fresh Year Fresh Start, with the<b> Covid-19 </b>pandemic
     going on <b>Thousands</b> of Businesses were forced to <b>Shut Down</b> and go
     out of Business, in the other hand <b>Digital Businesses</b> saw a Massive <b>Growth</b>.<br><br>We
