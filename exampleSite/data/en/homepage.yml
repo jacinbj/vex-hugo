@@ -31,12 +31,12 @@ promo:
   enable: true
   image: "/images/untitled-design-11.png"
   title: '70 % OFF '
-  content: Fresh Year Fresh Start, with the<b> Covid-19 </b>pandemic going on <b>Thousands</b>
-    of Businesses were forced to <b>Shut Down</b> and go out of Business, in the other
-    hand <b>Digital Businesses</b> saw a Massive <b>Growth</b>.<br><br>We are running
-    a <b>Promotion</b> for the new year to help you Digitalize your Business with
-    an <b>Unbeatable Price</b> style="color:red;" Deadline March 31 (Photoshoot Session
-    + Website + Marketing)<br><br>Call Us at <b>06 41 84 40 63</b>
+  content: <h3>Fresh Year Fresh Start, with the<b> Covid-19 </b>pandemic going on
+    <b>Thousands</b> of Businesses were forced to <b>Shut Down</b> and go out of Business,
+    in the other hand <b>Digital Businesses</b> saw a Massive <b>Growth</b>.<br><br>We
+    are running a <b>Promotion</b> for the new year to help you Digitalize your Business
+    with an <b>Unbeatable Price</b><h1 style="color:red;"> Deadline March 31 (Photoshoot
+    Session + Website + Marketing)<br><br>Call Us at <b>06 41 84 40 63</h3>
 about_product:
   enable: true
   title: Our Clients
