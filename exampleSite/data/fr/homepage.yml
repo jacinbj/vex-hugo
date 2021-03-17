@@ -30,7 +30,7 @@ features:
 promo:
   enable: true
   image: "/images/untitled-design-11.png"
-  title: <h2 style="color:red;">70 % OFF</h2>
+  title: <h2 style=style="text-align:center;color:red;">70 % OFF</h2>
   content: <p style="color:white;text-align:center;">Nous organisons une promotion
     <b>Limitée </b>pour la nouvelle année pour vous aider à <b>Numériser votre entreprise
     </b>avec un <b>prix imbattable </b><h2 style="color:red;text-align:center;"> Deadline
