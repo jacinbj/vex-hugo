@@ -30,7 +30,7 @@ features:
 promo:
   enable: true
   image: "/images/untitled-design-11.png"
-  title: <h2 style="text-align:center;color:red;">70 % OFF</h2>
+  title: <h2 style="text-align:center;color:red;">Promo 2021</h2>
   content: <p style="color:white;text-align:center;">We are running a <b>Promotion</b>
     for the new year to help you Digitalize your Business with an <b>Unbeatable Price</b></h4><h2
     style="color:red;text-align:center;"> Deadline March 31 </h2><p style="color:white;text-align:center;">(Photoshoot
